@@ -7,3 +7,13 @@
 由于Matlab特性，该代码需使用Matlab打开。
 
 如有代码整体复制等操作请注明出处。
+
+## Ch1 函数生成器
+
+fcn_gen
+
+## Ch2 Media
+
+media.mlapp 第一版，使用sound，功能较少。
+
+media_player 第二版，用过更复杂的函数实现更复杂的功能。
