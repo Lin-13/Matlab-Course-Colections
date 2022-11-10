@@ -17,3 +17,7 @@ fcn_gen
 media.mlapp 第一版，使用sound，功能较少。
 
 media_player 第二版，用过更复杂的函数实现更复杂的功能。
+
+## Ch2 Histogram
+
+hist,波形数据直方图分析
