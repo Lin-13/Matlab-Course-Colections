@@ -18,6 +18,8 @@ media.mlapp 第一版，使用sound，功能较少。
 
 media_player 第二版，用过更复杂的函数实现更复杂的功能。
 
-## Ch2 Histogram
+## Ch3 Histogram & Corr
 
 hist,波形数据直方图分析
+
+wave_corr,波形自相关和互相关分析，支持两个通道波形函数生成和分析。
